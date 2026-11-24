@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+bin/
+
+# VS Code settings
+.vscode/
 
 # Log file
 *.log
